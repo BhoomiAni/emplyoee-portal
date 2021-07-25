@@ -1,6 +1,6 @@
 {
-  "name": "emplyoee-portal",
-  "homepage": "https://bhoomiani.github.io/react",
+  "name": "employee-portal",
+  "homepage": "https://BhoomiAni.github.io/employee-portal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
